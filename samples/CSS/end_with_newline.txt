@@ -1,4 +1,6 @@
 .class1 {
   background-color: red;
-  color:blue;
+
+  color :red; background-color: red;
+
 }
